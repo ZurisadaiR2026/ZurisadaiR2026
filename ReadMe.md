@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Learning Python, Scratch games, HTML5, CSS3,  PseInt, <br>👯 I’m looking to collaborate on creating Webpages whit HTML5 and CSS3<br>🤝 I’m looking for help with Learning how to start coding whit <br>🌱 I’m currently learning Python<br>💬 Ask me about Scratch, PowerApps, Excel, HTML5, CSS3, Word, Canva, PowerPoint, VScode, PseInt<br>⚡ Fun fact really like to watch K-Dramas, Animes, Mangas, Series and Books
+🔭 I’m currently working on Learning Python, Scratch games, HTML5, CSS3,  PseInt, <br>👯 I’m looking to collaborate on creating Webpages whit python HTML5 and CSS3<br>🤝 I’m looking for help with Learning how to start coding whit <br>🌱 I’m currently learning Python<br>💬 Ask me about Scratch, PowerApps, Excel, HTML5, CSS3, Word, Canva, PowerPoint, VScode, PseInt<br>⚡ Fun fact really like to watch K-Dramas, Animes, Mangas, Series and Books
 
 
 # 💻 Tech Stack:
